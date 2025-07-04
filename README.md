@@ -11,6 +11,11 @@ This project simulates an analytics solution for a ride-hailing platform like Ol
 
 ---
 
+## 📂 Dataset
+You can find the dataset used for this analysis [here](https://www.kaggle.com/datasets/amarjitsingh1/ola-cab-dataset).
+
+---
+
 ## 🧭 Objective
 
 To build a fully interactive Power BI dashboard using real-world business logic, advanced DAX measures, SQL preprocessing, and Power Query ETL that can:
