@@ -65,7 +65,7 @@ To build a fully interactive Power BI dashboard using real-world business logic,
 
 ## 📊 Dashboard Preview
 
-![Screenshot 2025-06-30 235112](https://github.com/user-attachments/assets/b562bbe7-e87d-47e7-8d2c-2a91e03a324e)
+![Screenshot 2025-06-30 235112](https://github.com/srimabose/ola_ride_analysis/main/Screenshot 2025-07-04 143304.png)
 
 ---
 
